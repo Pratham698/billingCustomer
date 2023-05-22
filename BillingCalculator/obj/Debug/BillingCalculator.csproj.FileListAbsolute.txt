@@ -1,0 +1,8 @@
+C:\Users\YB826BP\source\project\BillingCalculator\obj\Debug\BillingCalculator.csproj.AssemblyReference.cache
+C:\Users\YB826BP\source\project\BillingCalculator\obj\Debug\BillingCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\YB826BP\source\project\BillingCalculator\obj\Debug\BillingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\YB826BP\source\project\BillingCalculator\bin\Debug\BillingCalculator.exe.config
+C:\Users\YB826BP\source\project\BillingCalculator\bin\Debug\BillingCalculator.exe
+C:\Users\YB826BP\source\project\BillingCalculator\bin\Debug\BillingCalculator.pdb
+C:\Users\YB826BP\source\project\BillingCalculator\obj\Debug\BillingCalculator.exe
+C:\Users\YB826BP\source\project\BillingCalculator\obj\Debug\BillingCalculator.pdb
